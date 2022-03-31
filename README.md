@@ -4,7 +4,7 @@ Auto insert Zero-width space to Thai sentences based on PyICU package. This will
 
 Credits to [pigeon-media/khmer-auto-zwsp](https://github.com/pigeon-media/khmer-auto-zwsp)
 
-### Run as an API**
+### Run as an API
 
 ```bash
 docker-compose up -d
